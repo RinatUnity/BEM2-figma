@@ -1,0 +1,118 @@
+.container{
+    margin: auto 30px;
+    background-color: rgb(222, 222, 236);
+    height:100%;
+    border-radius: 5px;
+    
+}
+.container__caption{
+    text-align: center;
+    font-size: 3em;
+}
+.container__nav{
+    text-align: center;
+    
+}
+.container__knopka{
+display: inline-block;
+font-size: 1.8em;
+margin: 0px 5px 0px 5px;
+padding: 3px 7px 3px 7px;
+background-color: rgb(163, 163, 163);
+border-radius: 7px;
+}
+.el_prl-10{
+    padding: 3px 10px 3px 10px;
+}
+.nav-silka{
+    margin-left: 50px;
+    margin-right: 10px;
+    color: rgb(255, 30, 0);
+}
+
+
+.container__containt{
+    
+    width: calc(100% / 3);
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: inline-block;
+       
+}
+.containt__kart{    
+/* width: calc(100% / 3); */
+padding: 0px;
+margin: 15px;
+height: 830px;
+border-radius: 15px;
+background-color: cadetblue;
+}
+.containt__kart_image{
+    display: inline-block;
+    width: 100%;
+    border-radius: 15px; 
+}
+.containt__kart_caption{  
+    text-align: center;
+    font-size: 1.8em;
+}
+.containt__kart_el1{
+    font-size: 1.5em;
+    
+}
+.containt__kart_el1_block1{
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+.containt__kart_el1_block2{
+    display: inline-block;
+    margin-left: 315px;
+}
+.containt__kart_el1_block3{
+    display: inline-block;
+    margin-left: 290px;
+}
+.containt__kart_el1_block4{
+    display: inline-block;
+    margin-left: 390px;
+}
+.containt__kart_el2{    
+        font-size: 1.5em;
+        line-height: 1.5;
+}
+.containt__kart_el2_block1{
+    display: inline-block;
+    margin-left: 10px;
+}
+.b-text{
+    font-weight: bold;
+}
+.containt__kart_el2_block2{ 
+display: inline-block;
+margin-left: 120px;  
+
+}
+.containt__kart_green{
+    font-size: 3em;
+    font-weight: bold;
+    color: rgb(39, 138, 39); 
+}
+.container__containt_el3{
+    width: 200px;
+    margin: 0px;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(190, 130, 18);
+}
+.containt__kart_s{
+    font-size: 1.2em;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+
